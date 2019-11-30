@@ -29,8 +29,7 @@ public class Resource {
     @Path("/kunden")
     @Produces(MediaType.APPLICATION_XML)
     @Consumes(MediaType.APPLICATION_XML)
-    public void createKunde(String name,String adresse){
-        Kunde kunde = new Kunde(name,adresse);
+    public void createKunde(Kunde kunde){
         alleKunden.addKunde(kunde);
     }
 

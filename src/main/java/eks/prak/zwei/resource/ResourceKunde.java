@@ -9,6 +9,9 @@ import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.ArrayList;
 
+
+// DEPRECATED
+
 @Path("kunden")
 public class ResourceKunde {
     private AlleKunden alleKunden;

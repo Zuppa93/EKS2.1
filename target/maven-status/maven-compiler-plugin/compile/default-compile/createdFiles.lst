@@ -1,12 +1,13 @@
 eks\prak\zwei\resource\ResourceKunde.class
+eks\prak\zwei\server\startServer.class
+eks\prak\zwei\resource\ResourceKonto.class
+eks\prak\zwei\entities\Kunde.class
+eks\prak\zwei\resource\Resource.class
 eks\prak\zwei\resource\ResourceTransaktion.class
 eks\prak\zwei\entities\Konto.class
-eks\prak\zwei\server\startServer.class
 eks\prak\zwei\verwaltung\AlleKonten.class
 eks\prak\zwei\verwaltung\AlleKunden.class
 eks\prak\zwei\entities\Transaktion.class
 eks\prak\zwei\entities\Transaktion$Transaktionstyp.class
-eks\prak\zwei\resource\ResourceKonto.class
 eks\prak\zwei\verwaltung\AlleTransaktionen.class
-eks\prak\zwei\resource\test.class
-eks\prak\zwei\entities\Kunde.class
+eks\prak\zwei\client\startClient.class

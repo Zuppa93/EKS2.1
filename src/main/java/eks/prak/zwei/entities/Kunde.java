@@ -1,10 +1,17 @@
 package eks.prak.zwei.entities;
 
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.ArrayList;
 
+@XmlRootElement
 public class Kunde {
+    @XmlElement
     private String name;
+
+    @XmlElement
     private String adresse;
+
     private ArrayList<Konto> konten;
 
     public Kunde(String name,String adresse){
