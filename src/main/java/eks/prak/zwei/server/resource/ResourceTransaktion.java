@@ -1,4 +1,4 @@
-package eks.prak.zwei.resource;
+package eks.prak.zwei.server.resource;
 // DEPRECATED
 public class ResourceTransaktion {
 

@@ -1,4 +1,4 @@
-package eks.prak.zwei.entities;
+package eks.prak.zwei.server.entities;
 
 public class Transaktion {
     public enum Transaktionstyp{

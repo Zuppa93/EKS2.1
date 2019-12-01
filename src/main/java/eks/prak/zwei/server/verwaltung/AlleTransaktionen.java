@@ -1,6 +1,6 @@
-package eks.prak.zwei.verwaltung;
+package eks.prak.zwei.server.verwaltung;
 
-import eks.prak.zwei.entities.Transaktion;
+import eks.prak.zwei.server.entities.Transaktion;
 import java.util.ArrayList;
 
 public class AlleTransaktionen {

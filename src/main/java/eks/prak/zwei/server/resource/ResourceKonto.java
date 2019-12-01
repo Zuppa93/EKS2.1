@@ -1,8 +1,8 @@
-package eks.prak.zwei.resource;
+package eks.prak.zwei.server.resource;
 
-import eks.prak.zwei.entities.Konto;
-import eks.prak.zwei.verwaltung.AlleKonten;
-import eks.prak.zwei.entities.Transaktion;
+import eks.prak.zwei.server.entities.Konto;
+import eks.prak.zwei.server.entities.Transaktion;
+import eks.prak.zwei.server.verwaltung.AlleKonten;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;

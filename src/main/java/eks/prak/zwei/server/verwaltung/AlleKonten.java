@@ -1,6 +1,6 @@
-package eks.prak.zwei.verwaltung;
+package eks.prak.zwei.server.verwaltung;
 
-import eks.prak.zwei.entities.Konto;
+import eks.prak.zwei.server.entities.Konto;
 import java.util.ArrayList;
 
 public class AlleKonten {

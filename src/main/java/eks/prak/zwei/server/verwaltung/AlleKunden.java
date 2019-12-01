@@ -1,6 +1,6 @@
-package eks.prak.zwei.verwaltung;
+package eks.prak.zwei.server.verwaltung;
 
-import eks.prak.zwei.entities.Kunde;
+import eks.prak.zwei.server.entities.Kunde;
 
 import javax.ws.rs.POST;
 import java.util.ArrayList;

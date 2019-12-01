@@ -1,9 +1,9 @@
-package eks.prak.zwei.resource;
+package eks.prak.zwei.server.resource;
 
-import eks.prak.zwei.entities.Konto;
-import eks.prak.zwei.entities.Kunde;
-import eks.prak.zwei.verwaltung.AlleKunden;
-import sun.security.krb5.internal.MethodData;
+
+import eks.prak.zwei.server.entities.Konto;
+import eks.prak.zwei.server.entities.Kunde;
+import eks.prak.zwei.server.verwaltung.AlleKunden;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
