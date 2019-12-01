@@ -13,7 +13,7 @@ import java.util.ArrayList;
 // DEPRECATED
 
 @Path("kunden")
-public class ResourceKunde {
+public class  ResourceKunde {
     private AlleKunden alleKunden;
 
     public ResourceKunde(){
